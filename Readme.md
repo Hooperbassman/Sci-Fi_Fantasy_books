@@ -82,7 +82,7 @@ I used visualizations throughout the analysis to help identify trends and suppor
 
 ### Sci-Fi VS Fantasy Genere Average Ratings
 
-![Sci-Fi VS Fantasy](visuals/Average Goodreads Rating by Genre.png)
+![Sci-Fi VS Fantasy](visuals/Average_Goodreads_Rating_by_Genre.png)
 
 This visualzation compares the average rating of the genere's Sci-fi and Fantasy
 
@@ -93,7 +93,7 @@ Fantasy wins the popular vote nearly every time.
 
 ### Series vs Standalone Ratings
 
-![Series vs Standalone](visuals/Average Ratings by Genre and Book Type.png)
+![Series vs Standalone](visuals/Average_Ratings_by_Genre_and_Book_Type.png)
 
 This visualization compares average ratings between books that are part of a series and standalone novels.
 
@@ -106,7 +106,7 @@ The analysis showed:
 
 ### Genre Popularity
 
-![Genre Popularity](visuals/Publication Trends by Genre (1940–Present).png)
+![Genre Popularity](visuals/Publication_Trends_by_Genre.png)
 
 This chart explores which sci-fi and fantasy genres appear most frequently in the dataset.
 
@@ -117,7 +117,7 @@ From this visualization, I learned:
 
 ### Ratings Distribution
 
-![Ratings Distribution](visuals/Average Rating vs Publication Year (1945–Present).png)
+![Ratings Distribution](visuals/Average_Rating_vs_Publication_Year.png)
 
 This distribution helped identify how reader ratings cluster across the dataset.
 
