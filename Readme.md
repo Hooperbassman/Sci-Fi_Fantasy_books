@@ -91,7 +91,7 @@ I expected them to be the same with no clear victor
 The analysis showed:
 Fantasy wins the popular vote nearly every time. 
 
-### Series vs Standalone Ratings
+### Series VS Standalone Ratings
 
 ![Series vs Standalone](visuals/Average_Ratings_by_Genre_and_Book_Type.png)
 
@@ -100,7 +100,7 @@ This visualization compares average ratings between books that are part of a ser
 I expected series books to perform slightly better because readers who enjoy the first installment are more likely to continue reading and rating later books positively.
 
 The analysis showed:
-- My findings were alligned with my theory. series books showed higher ratings in general.
+- My findings were alligned with my theory. Series books showed higher ratings in general.
 
 ---
 
